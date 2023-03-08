@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jamilurichifa
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently learning Data Engineer
 - 💞️ I’m looking to collaborate with fellow tech enthusiast
 - 📫 How to reach me email richifso00@gmail.com
 
