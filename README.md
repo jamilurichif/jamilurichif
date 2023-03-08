@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jamilurichif
+- 👋 Hi, I’m @jamilurichifa
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Software engineering
-- 💞️ I’m looking to collaborate on app
+- 🌱 I’m currently learning DevOps
+- 💞️ I’m looking to collaborate with fellow tech enthusiast
 - 📫 How to reach me email richifso00@gmail.com
 
 <!---
